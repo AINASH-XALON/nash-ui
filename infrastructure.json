@@ -1,0 +1,16 @@
+{
+  "servers": {
+    "nash-core-server": {
+      "ip": "3.239.97.110",
+      "services": {
+        "agent_kernel": { "port": 5002, "status": "active" }
+      }
+    },
+    "nash-ui-server": {
+      "ip": "3.209.80.245",
+      "services": {
+        "electron_ui": { "port": 3000, "status": "active" }
+      }
+    }
+  }
+}
